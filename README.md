@@ -5,19 +5,21 @@
 ## 安装框架
 
 首先克隆下载应用项目仓库：
-git clone https://github.com/top-think/think tp5
+> git clone https://github.com/top-think/think tp5
 
 然后切换到tp5目录下面，再克隆核心框架仓库：
-git clone https://github.com/top-think/framework thinkphp
+> git clone https://github.com/top-think/framework thinkphp
 
 两个仓库克隆完成后，就完成了ThinkPHP5.0的Git方式下载，
-如果需要更新应用项目的时候，
-git pull https://github.com/top-think/think
 
-如果需要更新核心框架的时候，只需要切换到thinkphp核心目录下面，然后执行：
-git pull https://github.com/top-think/framework
+如果需要更新应用项目的时候，切换到think目录然后执行：
+> git pull https://github.com/top-think/think
+
+如果需要更新核心框架的时候，只需要切换到thinkphp核心目录然后执行：
+> git pull https://github.com/top-think/framework
 
 备注：ThinkPHP5的运行环境要求PHP5.4以上。
+
 详细开发文档参考 [ThinkPHP5完全开发手册](http://www.kancloud.cn/manual/thinkphp5)
 
 ## TP5目录结构
