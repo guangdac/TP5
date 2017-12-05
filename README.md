@@ -22,6 +22,7 @@
 详细开发文档参考 [ThinkPHP5完全开发手册](http://www.kancloud.cn/manual/thinkphp5)
 
 ## TP5目录结构
+
 目录结构
 ~~~
 TP5仓库
@@ -41,6 +42,7 @@ TP5仓库
 │
 └─ ... 其他目录
 ~~~
+
 
 ## think目录结构
 
