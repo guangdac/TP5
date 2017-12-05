@@ -19,16 +19,28 @@
 > git pull https://github.com/top-think/framework
 
 备注：ThinkPHP5的运行环境要求PHP5.4以上。
-
 详细开发文档参考 [ThinkPHP5完全开发手册](http://www.kancloud.cn/manual/thinkphp5)
 
 ## TP5目录结构
-
-目录结构：
-├─think           应用目录
+目录结构
+~~~
+TP5仓库
+│
+├─ think          应用目录
 │  ├─thinkphp     新核心框架目录，如果需要更新的话切换到改目录，然后 git pull https://github.com/top-think/framework
-├─html            前端代码
-
+│  └─ ...         更多类库目录
+│
+├─ html           前端代码
+│  ├─ static      样式目录
+│  │  ├─ css      样式css
+│  │  ├─ js       样式js
+│  │  ├─ img      样式img
+│  │  └─ ...
+│  │
+│  └─ ...         更多目录
+│
+└─ ... 其他目录
+~~~
 
 ## think目录结构
 
