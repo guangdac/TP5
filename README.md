@@ -1,6 +1,8 @@
-仅供 ThinkPHP 5.0 学习
 
-################ 安装框架 ################
+## 仅供ThinkPHP 5.0学习
+
+
+## 安装框架
 
 首先克隆下载应用项目仓库：
 git clone https://github.com/top-think/think tp5
@@ -18,7 +20,7 @@ git pull https://github.com/top-think/framework
 备注：ThinkPHP5的运行环境要求PHP5.4以上。
 详细开发文档参考 [ThinkPHP5完全开发手册](http://www.kancloud.cn/manual/thinkphp5)
 
-################## 目录结构 ################
+## TP5目录结构
 
 目录结构：
 ├─think           应用目录
@@ -26,7 +28,7 @@ git pull https://github.com/top-think/framework
 ├─html            前端代码
 
 
-############# think目录结构 ################
+## think目录结构
 
 think初始的目录结构如下：
 
